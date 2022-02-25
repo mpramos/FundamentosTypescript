@@ -1,4 +1,3 @@
-"use strict";
 // NUMBER 
 // Explicito
 let phone;
