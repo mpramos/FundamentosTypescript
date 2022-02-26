@@ -19,7 +19,7 @@ FormatedInfo({id:5,name:'lupe', edad :31})
 // Como no me deja los dos por el modo estricto de js entonces tenemos que desactivar  el checkeo
 // de los tipos estrictos
 let unusable : void ;
-unusable = null;
+// unusable = null;
 unusable = undefined;
 
 

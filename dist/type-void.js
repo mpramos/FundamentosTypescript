@@ -20,7 +20,7 @@ FormatedInfo({ id: 5, name: 'lupe', edad: 31 });
 // Como no me deja los dos por el modo estricto de js entonces tenemos que desactivar  el checkeo
 // de los tipos estrictos
 let unusable;
-unusable = null;
+// unusable = null;
 unusable = undefined;
 /* Tipo: Never */
 // con Never decimos que nunca retorna un valor objeto simplemente lanza la aplicacion

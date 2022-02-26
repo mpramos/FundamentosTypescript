@@ -2,7 +2,7 @@
 // Explicita
 let nullVariable;
 nullVariable = null;
-nullVariable = 1; // Error !
+// nullVariable = 1; // Error !
 let otherVariable = null;
 otherVariable = 'test';
 console.log('nullVariable', nullVariable);
@@ -17,6 +17,6 @@ console.log('otherUndefined', otherUndefined);
 //  Null y Undefined: Como subtipos
 // --strictNullChecks
 let albumName;
-albumName = null;
-albumName = undefined;
-console.log(albumName);
+// albumName = null; 
+// albumName = undefined;
+// console.log(albumName)
