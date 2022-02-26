@@ -1,5 +1,5 @@
 /* ANY 
-    Sole se debe usar cuando no se se sepa cual es el valor
+    Solo se debe usar cuando no se se sepa cual es el valor
     que se alamacenará en mi variable
 */
 

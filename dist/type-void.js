@@ -1,3 +1,4 @@
+"use strict";
 /* VOID */
 // Tipos explicito
 function showInfo(user) {
